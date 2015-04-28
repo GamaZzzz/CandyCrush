@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d0c320861fac79544baad38693263fd2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - candy1: {fileID: 100000, guid: 7b12517d2cfb6b94c9348a52e5a4caad, type: 2}
+  - candy2: {fileID: 100000, guid: 94eb9271c1848334bb5546cb10123f5e, type: 2}
+  - candy3: {fileID: 100000, guid: 53b32847ff1ed3542922b6d78b232820, type: 2}
+  - candy4: {fileID: 100000, guid: 102ce183df3ba12478ecf63a6f3c1556, type: 2}
+  - candy5: {fileID: 100000, guid: 6a6584e56dc1de8429c7693373be46bf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
