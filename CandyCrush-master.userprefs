@@ -1,16 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Candy.cs">
     <Files>
-      <File FileName="Assets\Script\GameController.cs" Line="145" Column="106" />
-      <File FileName="Assets\Script\Candy.cs" Line="30" Column="18" />
-      <File FileName="Assets\Script\ActionController.cs" Line="28" Column="68" />
+      <File FileName="Assets\Script\GameController.cs" Line="486" Column="44" />
+      <File FileName="Assets\Script\ActionController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Candy.cs" Line="15" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="G:\Work2015\CandyCrush-master\Assets\Script\GameController.cs" line="128" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Script\GameController.cs" line="220" offsetX="477" offsetY="3723" expression="temp_list" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
 </Properties>
