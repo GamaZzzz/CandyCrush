@@ -1,9 +1,0 @@
-G:\Work2015\CandyCrush-master\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
-G:\Work2015\CandyCrush-master\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
-G:\Work2015\CandyCrush-master\Temp\UnityVS_bin\Debug\UnityEditor.dll
-G:\Work2015\CandyCrush-master\Temp\UnityVS_bin\Debug\UnityEngine.dll
-G:\Work2015\CandyCrush-master\Temp\UnityVS_bin\Debug\UnityEngine.xml
-G:\Work2015\CandyCrush-master\Temp\UnityVS_bin\Debug\UnityEditor.xml
-G:\Work2015\CandyCrush-master\obj\Debug\UnityVS.CandyCrush-master.CSharp.csprojResolveAssemblyReference.cache
-G:\Work2015\CandyCrush-master\obj\Debug\Assembly-CSharp.dll
-G:\Work2015\CandyCrush-master\obj\Debug\Assembly-CSharp.pdb
